@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/thrashr888/!svn/ver/228/trunk/Cocoa/ChristmasLights/Classes
+END
+ChristmasLightsAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/ChristmasLightsAppDelegate.m
+END
+FlipsideView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/FlipsideView.h
+END
+FlipsideViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/thrashr888/!svn/ver/222/trunk/Cocoa/ChristmasLights/Classes/FlipsideViewController.h
+END
+FlipsideView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/FlipsideView.m
+END
+MainView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/MainView.h
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/RootViewController.h
+END
+FlipsideViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/thrashr888/!svn/ver/222/trunk/Cocoa/ChristmasLights/Classes/FlipsideViewController.m
+END
+MainViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/thrashr888/!svn/ver/228/trunk/Cocoa/ChristmasLights/Classes/MainViewController.h
+END
+ChristmasLightsAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/ChristmasLightsAppDelegate.h
+END
+MainView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/thrashr888/!svn/ver/221/trunk/Cocoa/ChristmasLights/Classes/MainView.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/thrashr888/!svn/ver/222/trunk/Cocoa/ChristmasLights/Classes/RootViewController.m
+END
+MainViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/thrashr888/!svn/ver/228/trunk/Cocoa/ChristmasLights/Classes/MainViewController.m
+END

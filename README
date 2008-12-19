@@ -1,0 +1,12 @@
+
+This is my first iPhone app.
+I'm still trying to work it out, so this is little more than HelloWorld.
+
+ChristmasLights is an app that shows a tree with twinkling lights. It uses 4 rotating images to simulate it. There's also a second view. I've also implemented the Settings pane to change the name in the views. The strings are all in a strings file so they can be I18n'd.
+
+I'm opening up my app here just to help me work it out. Do with it what you wish. The images are free to use for whatever.
+
+Enjoy!
+
+-Paul
+http://www.vastermonster.com
